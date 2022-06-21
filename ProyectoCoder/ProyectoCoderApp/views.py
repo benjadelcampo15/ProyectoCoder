@@ -47,4 +47,4 @@ def base(request):
     return render(request,"ProyectoCoderApp/base.html",{})
 
 def entregables(request):
-    return HttpResponse("Vista de entregablesasdsadds")
+    return HttpResponse("Vista de entregablesasdsaddssdasdasda")
